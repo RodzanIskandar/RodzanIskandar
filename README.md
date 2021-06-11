@@ -1,9 +1,6 @@
-# Hello Everyone!!!
+# Hello Everyone!!! Welcome to Rodzan Iskandar's GitHub page!
 
-**Welcome to Rodzan Iskandar's GitHub page!**
-  
-
-*Credit for the feature: [https://github.com/importdata/importdata/blob/master/README.md](https://github.com/importdata/importdata/blob/master/README.md)*
+## on this page, I share my works and my Data Science's journey
 
 Connect with me on Linkedin
 
