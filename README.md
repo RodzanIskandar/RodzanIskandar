@@ -1,4 +1,4 @@
-# Hello Everyone!!! Welcome to Rodzan Iskandar's GitHub page!
+# Hello Everyone!!! Welcome to my page!
 
 ## on this page, I share my works and my Data Science's journey
 
