@@ -1,6 +1,6 @@
 # Hello Everyone!!! Welcome to Rodzan Iskandar's page!
 
-## on this page, I share my works and my Programming journey
+## on this page, I share my works and my programming journey
 
 *credit this feature: [https://github.com/importdata/importdata/blob/master/README.md](https://github.com/importdata/importdata/blob/master/README.md)*
 
